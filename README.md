@@ -3,6 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/ChessGame-js)
 ![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/ChessGame-js)
 
+## Portfolio 2 Project
+
 ### Purpose
 
 Simple Game of Chess
