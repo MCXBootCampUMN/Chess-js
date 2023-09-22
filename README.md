@@ -1,9 +1,5 @@
 # Chess-Game
 
-https://maxamed-ncx.github.io/Chess-js/
-
-https://github.com/Maxamed-NCX/ChessGame-js
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/ChessGame-js)
 ![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/ChessGame-js)
 
@@ -33,7 +29,7 @@ Simple Game of Chess
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[GitHub-Project](https://maxamed-ncx.github.io/Chess-js/)
+[Deployed-Project](https://maxamed-ncx.github.io/Chess-js/)
 
 
 ## **_Link URL to GitHub Repository_**
