@@ -31,7 +31,7 @@ Simple Game of Chess
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[Deployed-Project](https://maxamed-ncx.github.io/Chess-js/)
+[Deployed-Project](https://maxamed-ncx.github.io/ChessGame-js/)
 
 
 ## **_Link URL to GitHub Repository_**
